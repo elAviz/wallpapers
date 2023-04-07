@@ -111,7 +111,8 @@ A collection of wallpapers used with my dotfiles
 <summary><b>Misc</b></summary>
 
 <img src="misc/broken-amber-portal.png" width="200px" />
-<img src="misc/jet.jpg" width="200px" />
+<img src="misc/jet-1.jpg" width="200px" />
+<img src="misc/jet-2.png" width="200px" />
 <img src="misc/mechanical-crane.jpg" width="200px" />
 <img src="misc/orbit-map.jpg" width="200px" />
 <img src="misc/vim-motions.png" width="200px" />
