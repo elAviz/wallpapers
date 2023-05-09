@@ -101,7 +101,6 @@ A collection of wallpapers
 <img src='misc/jet-2.png' width='200px' />
 <img src='misc/mechanical-crane.jpg' width='200px' />
 <img src='misc/orbit-map.jpg' width='200px' />
-<img src='misc/vim-motions.png' width='200px' />
 </details>
 
 <details close>
@@ -143,6 +142,7 @@ A collection of wallpapers
 <img src='sky/escape-velocity.jpg' width='200px' />
 <img src='sky/evening.png' width='200px' />
 <img src='sky/horizon.jpg' width='200px' />
+<img src='sky/planet-over-mountains.jpg' width='200px' />
 <img src='sky/rocket-clouds.jpg' width='200px' />
 <img src='sky/rocket-launch.png' width='200px' />
 <img src='sky/star-over-mountains.webp' width='200px' />
