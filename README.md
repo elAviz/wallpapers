@@ -3,7 +3,15 @@ A collection of wallpapers
 
 <details close>
 <summary><b>abstract</b></summary>
-<img src='abstract/01.jpg' width='200px' />
+<img src='abstract/01.png' width='200px' />
+<img src='abstract/02.jpg' width='200px' />
+</details>
+
+<details close>
+<summary><b>aerial</b></summary>
+<img src='aerial/city-01.jpg' width='200px' />
+<img src='aerial/ocean-01.jpg' width='200px' />
+<img src='aerial/snowy-dark-hills.jpg' width='200px' />
 </details>
 
 <details close>
@@ -61,21 +69,29 @@ A collection of wallpapers
 </details>
 
 <details close>
-<summary><b>catppuccin</b></summary>
-<img src='catppuccin/arch.png' width='200px' />
-<img src='catppuccin/hashtags.png' width='200px' />
-<img src='catppuccin/sound-bars.png' width='200px' />
-<img src='catppuccin/sticky-notes.png' width='200px' />
-</details>
-
-<details close>
 <summary><b>city</b></summary>
 <img src='city/cable-car-san-francisco.png' width='200px' />
+<img src='city/forge-of-empires.jpg' width='200px' />
 <img src='city/futuristic-01.jpg' width='200px' />
 <img src='city/mountain-side.png' width='200px' />
 <img src='city/night-01.png' width='200px' />
 <img src='city/nyc-skyline-pier.jpg' width='200px' />
 <img src='city/skyscraper-from-below.jpg' width='200px' />
+</details>
+
+<details close>
+<summary><b>dark</b></summary>
+<img src='dark/alonetogether1.png' width='200px' />
+<img src='dark/alonetogether2.png' width='200px' />
+<img src='dark/alonetogether3.png' width='200px' />
+<img src='dark/alonetogether4.png' width='200px' />
+<img src='dark/alonetogether5.png' width='200px' />
+<img src='dark/alonetogether6.png' width='200px' />
+</details>
+
+<details close>
+<summary><b>fog</b></summary>
+<img src='fog/mountain-01.jpg' width='200px' />
 </details>
 
 <details close>
@@ -95,11 +111,18 @@ A collection of wallpapers
 </details>
 
 <details close>
+<summary><b>minimalistic</b></summary>
+<img src='minimalistic/monterey-dark.png' width='200px' />
+<img src='minimalistic/tiles.png' width='200px' />
+</details>
+
+<details close>
 <summary><b>misc</b></summary>
 <img src='misc/broken-amber-portal.png' width='200px' />
 <img src='misc/jet-1.jpg' width='200px' />
 <img src='misc/jet-2.png' width='200px' />
 <img src='misc/mechanical-crane.jpg' width='200px' />
+<img src='misc/mountain-framed.png' width='200px' />
 <img src='misc/orbit-map.jpg' width='200px' />
 </details>
 
@@ -119,11 +142,15 @@ A collection of wallpapers
 <summary><b>nature</b></summary>
 <img src='nature/art-01.jpg' width='200px' />
 <img src='nature/art-02.png' width='200px' />
-<img src='nature/fiji-01.png' width='200px' />
+<img src='nature/fiji-01.jpg' width='200px' />
 <img src='nature/fiji-02.jpg' width='200px' />
+<img src='nature/fiji-03.jpg' width='200px' />
 <img src='nature/firewatch-glacier.png' width='200px' />
+<img src='nature/firewatch-purple.jpg' width='200px' />
 <img src='nature/forest-stairs.jpg' width='200px' />
-<img src='nature/landscape-01.webp' width='200px' />
+<img src='nature/glacier-water.jpg' width='200px' />
+<img src='nature/lake-reflection.jpg' width='200px' />
+<img src='nature/rocky-ocean.jpg' width='200px' />
 </details>
 
 <details close>
@@ -139,6 +166,9 @@ A collection of wallpapers
 <details close>
 <summary><b>sky</b></summary>
 <img src='sky/blue-night.png' width='200px' />
+<img src='sky/colorful-snow.jpg' width='200px' />
+<img src='sky/comet-tearing-sky.png' width='200px' />
+<img src='sky/dark-skies.png' width='200px' />
 <img src='sky/escape-velocity.jpg' width='200px' />
 <img src='sky/evening.png' width='200px' />
 <img src='sky/horizon.jpg' width='200px' />
